@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "rickaym.manim-sideview",
+        "pkief.material-icon-theme",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy"
+    ]
+}

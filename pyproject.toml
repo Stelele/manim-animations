@@ -1,0 +1,13 @@
+[project]
+name = "testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipython>=9.0.2",
+    "manim>=0.19.0",
+    "notebook>=7.3.3",
+    "pyopengl>=3.1.9",
+    "pyopengl-accelerate>=3.1.9",
+]
